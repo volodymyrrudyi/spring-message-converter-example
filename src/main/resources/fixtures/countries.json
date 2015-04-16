@@ -1,0 +1,32 @@
+[
+  {
+    "name" : "USA",
+    "capital" : "Washington",
+    "population" : "320206000",
+    "totalArea" : "9147593"
+  },
+  {
+    "name" : "Ukraine",
+    "capital" : "Kyiv",
+    "population" : "44291413",
+    "totalArea" : "603500.00"
+  },
+  {
+    "name" : "Japan",
+    "capital" : "Tokyo",
+    "population" : "126434964",
+    "totalArea" : "377944.00"
+  },
+  {
+    "name" : "Mauritius",
+    "capital" : "Port Louis",
+    "population" : "1261208",
+    "totalArea" : "2040.00"
+  },
+  {
+    "name" : "Montenegro",
+    "capital" : "Podgorica",
+    "population" : "620029",
+    "totalArea" : "13812.00"
+  }
+]
